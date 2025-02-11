@@ -10,6 +10,6 @@ Key Features:
 ✅ Automatic delay mechanism to avoid getting blocked by Shopee
 
 How to Use:
-Replace the product URL in the url variable with the Shopee product URL you want to scrape
-Run the script using Python
-The review data will be automatically saved as shopee_reviews.xlsx
+1. Replace the product URL in the url variable with the Shopee product URL you want to scrape
+2. Run the script using Python
+3. The review data will be automatically saved as shopee_reviews.xlsx
